@@ -4,3 +4,4 @@ RENCANA BELAJAR WPU
     *ES6
     *OOP
 - Phyton
+- Belajar Statistik
