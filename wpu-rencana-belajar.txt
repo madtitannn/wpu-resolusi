@@ -1,0 +1,6 @@
+RENCANA BELAJAR WPU
+
+- JavaScript 
+    *ES6
+    *OOP
+- Phyton
