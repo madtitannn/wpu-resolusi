@@ -3,5 +3,7 @@ RENCANA BELAJAR WPU
 - JavaScript 
     *ES6
     *OOP
+      ^Vue
+      ^Next
 - Phyton
 - Belajar Statistik
