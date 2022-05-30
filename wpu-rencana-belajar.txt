@@ -3,5 +3,8 @@ RENCANA BELAJAR WPU
 - JavaScript 
     *ES6
     *OOP
+    ^React
+    ^Angular
 - Phyton
 - Belajar Statistik
+      ^Laravel
