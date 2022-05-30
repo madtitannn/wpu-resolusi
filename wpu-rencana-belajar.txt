@@ -7,3 +7,4 @@ RENCANA BELAJAR WPU
       ^Next
 - Phyton
 - Belajar Statistik
+      ^Laravel
